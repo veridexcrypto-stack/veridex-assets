@@ -1,0 +1,15 @@
+{
+  "name": "Veridex Token List",
+  "logoURI": "https://raw.githubusercontent.com/veridexcrypto-stack/veridex-assets/refs/heads/main/veridex_assets/blockchains/smartchain/assets/0x0c45184F127A5105D195062a57C40422f469f6d5/logo.png",
+  "timestamp": "2025-09-03T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x0c45184F127A5105D195062a57C40422f469f6d5",
+      "name": "Veridex",
+      "symbol": "VDX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/veridexcrypto-stack/veridex-assets/refs/heads/main/veridex_assets/blockchains/smartchain/assets/0x0c45184F127A5105D195062a57C40422f469f6d5/logo.png"
+    }
+  ]
+}
